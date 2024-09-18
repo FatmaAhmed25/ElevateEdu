@@ -7,6 +7,7 @@ It’s designed to make the educational experience smoother for Admins, Instruct
 
 Dive into a seamless system where admins manage users, instructors create and oversee courses, and students enroll, review, and interact—all in one place.
 
+Deployed Site: not deployed yet
 Final Blog Article: 
 Author LinkedIn: 
 
@@ -78,5 +79,7 @@ From the initial frustration with chaotic course management systems to developin
 this project is a testament to my dedication to improving educational experiences.
 
 
+
+![image](https://github.com/user-attachments/assets/2cb31cef-57f2-4cd4-93ec-a2b1335a5a1e)
 
 
