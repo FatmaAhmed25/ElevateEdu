@@ -37,7 +37,11 @@ RESTful APIs: To ensure smooth communication between frontend and backend.
 
 📥 **Installation**
 Getting started with the project is simple:
+➡️ Clone the repository:
 
+git clone https://github.com/FatmaAhmed25/ElevateEdu
+```bash
+cd coursemanagment
 
 
 
