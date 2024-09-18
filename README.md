@@ -40,9 +40,24 @@ Getting started with the project is simple:
 ➡️ Clone the repository:
 
 git clone https://github.com/FatmaAhmed25/ElevateEdu
-```bash
-cd coursemanagment
 
+➡️ To run the backend 
+```bash
+cd coursemanagement
+mvn clean install
+mvn spring-boot:run
+
+```bash
+cd usermanagment
+mvn clean install
+mvn spring-boot:run
+
+➡️ To run the frontend
+
+```bash
+cd frontend
+npm install
+ng serve
 
 
 🛠️ **Usage**
