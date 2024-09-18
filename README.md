@@ -46,19 +46,19 @@ git clone https://github.com/FatmaAhmed25/ElevateEdu
 cd coursemanagement
 mvn clean install
 mvn spring-boot:run
-
+```
 ```bash
 cd usermanagment
 mvn clean install
 mvn spring-boot:run
-
+```
 ➡️ To run the frontend
 
 ```bash
 cd frontend
 npm install
 ng serve
-
+```
 
 🛠️ **Usage**
 For Admins:
